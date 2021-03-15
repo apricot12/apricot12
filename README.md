@@ -4,7 +4,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ari%20Karim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aprikot-web)](https://www.linkedin.com/in/aprikot-web)
+[![Linkedin Badge](https://img.shields.io/badge/-Nihal%20M-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aprikot-web)](https://www.linkedin.com/in/aprikot-web)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/apricotfoxtrot)
 
 
