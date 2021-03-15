@@ -12,7 +12,7 @@
 
 # Little More About Me
 ```javascript
-const nihalM = {
+const apricot12 = {
   lookingFor: "Ruby on Rails Developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   code: [HTML/CSS, Semantic UI, Bootstrap, 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arikarim&theme=dracula)](https://github.com/arikarim)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apricot12&theme=dracula)](https://github.com/apricot12)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arikarim&theme=dracula)](https://github.com/arikarim-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apricot12&theme=dracula)](https://github.com/apricot12-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/arikarim)
+![Profile views](https://gpvc.arturio.dev/apricot12)
