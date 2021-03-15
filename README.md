@@ -15,10 +15,10 @@
 const apricot12 = {
   lookingFor: "Ruby on Rails Developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Ruby, Ruby on Rails, Js, React, RESTAPI],
-  askMeAbout: [Lifting, Anime, Movies, Lovecraft],
-  challenge: "Working on a large scale repo",
+  code: ["HTML/CSS", "Semantic UI", "Bootstrap", 
+  "Tailwind CSS", "Ruby", "Ruby on Rails", "Js", "React", "RESTAPI"],
+  askMeAbout: ["Lifting", "Anime", "Movies", "Lovecraft"],
+  challenge: ["Working on a large scale repo",]
 }
 ```
 
